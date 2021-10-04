@@ -36,6 +36,6 @@ Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapa
   - Kehidupan susasana kampus norma baharu dapat diteruskan walaupun tidak berada di kampus: peer, keluarga, university  
   - Komunikasi antara pelajar, pensyarah dan pentadbir akademik
 - Secara ringkas, pelan Tindakan ODL 4.0 mempunyai 14 teras Tindakan yang utama yang dirumuskan didalam jadual dibawah
-![](/images/image1.png)  
+![](/images/image.png)  
 - Seperti yang kita dapat lihat, peranan pensyarah amat penting dalam memastikan Pelan Tindakan ODL 4.0 dapat dilaksanakan dengan jayanya, bagi menangani isu-isu yang disebutkan. Berbaki kurang lebih 3 minggu sebelum kuliah sesi 20214 ini bermula, marilah kita bersama melengkapi diri dengan memahami hasrat dan perancangan yang digariskan oleh bahagian Hal Ehwal Akademik induk (yang telah dibentangkan semasa sesi townhall tempoh hari), sediakan perencanaan yang bersesuaian dan mulakan perancangan pelaksanaan bagi menjalani semester yang akan datang ini dengan lebih baik dari semester-semester yang sebelum ini, insyaAllah  
 - Turut disertakan untuk rujukan dan telaah kita bersama, ‘google drive’ yang mengandungi semua dokumen yang telah dikongsikan semasa sesi townhall akademik lepas  [https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv](https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv)
