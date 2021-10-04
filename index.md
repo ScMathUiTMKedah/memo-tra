@@ -1,9 +1,7 @@
----
-toc: true
-toc_float: true
-toc_level: 1
----
+
 # MEMO TRA BIL.1/2021
+<details>
+  <summary>Display Memo</summary>
 
 Assalamualaikum, Salam Sejahtera dan Salam UiTM Dihatiku…
 
@@ -44,3 +42,5 @@ Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapa
 ![](/images/image.png)  
 - Seperti yang kita dapat lihat, peranan pensyarah amat penting dalam memastikan Pelan Tindakan ODL 4.0 dapat dilaksanakan dengan jayanya, bagi menangani isu-isu yang disebutkan. Berbaki kurang lebih 3 minggu sebelum kuliah sesi 20214 ini bermula, marilah kita bersama melengkapi diri dengan memahami hasrat dan perancangan yang digariskan oleh bahagian Hal Ehwal Akademik induk (yang telah dibentangkan semasa sesi townhall tempoh hari), sediakan perencanaan yang bersesuaian dan mulakan perancangan pelaksanaan bagi menjalani semester yang akan datang ini dengan lebih baik dari semester-semester yang sebelum ini, insyaAllah  
 - Turut disertakan untuk rujukan dan telaah kita bersama, ‘google drive’ yang mengandungi semua dokumen yang telah dikongsikan semasa sesi townhall akademik lepas  [https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv](https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv)
+  
+</details>
