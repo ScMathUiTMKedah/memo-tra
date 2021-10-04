@@ -30,11 +30,11 @@ Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapa
 - Sesi P&P 20214 (Oktober 2021 – Februari 2022) akan bermula pada 10 Oktober 2021 nanti. Seperti yang kita sedari dan ikuti, sepanjang cuti semester untuk para pelajar ini, Bahagian Hal Ehwal Akademik UiTM telah menganjurkan pelbagai program dan kursus-kursus bagi meningkatkan dan menambah baik kemahiran para pensyarah dalam menempuh sesi pengajaran dan pembelajaran yang akan datang  
 - Semasa program ‘Townhall Akademik di Ambang 20214’ pada 15 September yang lepas, pihak HEA induk telah mengesahkan bahawa, semester Okt 21’ – Feb 22’ akan dijalankan secara ODL dan hybrid bagi program pengajian yang mempunyai keperluan. Ini bermakna, kita akan menempuh sesi ODL untuk kali yang ke-4  
 - Sehubungan dengan itu, sebuah pelan Tindakan ODL 4.0 telah diperkenalkan kepada warga UiTM, khususnya kepada para akademia, sebagai garis panduan kepada kita, dalam mengetahui dan menjalankan tanggungjawab kita bagi melaksanakan perancangan yang telah digariskan dalam Pelan Tindakan ODL 4.0 tersebut. Asas pelan tindakan ODL 4.0 ini adalah:  
-  i. PdP: Budaya, empati, pedagogi dalam talian, bantuan pencarian maklumat dan sumber PdP serta pentaksiran dan penilaian yang sesuai dan tidak melampau  
-  ii. Pengurusan masa, emosi dan stress  
-  iii. Kebajikan dan menyantuni pelajar termasuk bantuan kewangan pelajar  
-  iv. Kehidupan susasana kampus norma baharu dapat diteruskan walaupun tidak berada di kampus: peer, keluarga, university  
-  v. Komunikasi antara pelajar, pensyarah dan pentadbir akademik
+  - PdP: Budaya, empati, pedagogi dalam talian, bantuan pencarian maklumat dan sumber PdP serta pentaksiran dan penilaian yang sesuai dan tidak melampau  
+  - Pengurusan masa, emosi dan stress  
+  - Kebajikan dan menyantuni pelajar termasuk bantuan kewangan pelajar  
+  - Kehidupan susasana kampus norma baharu dapat diteruskan walaupun tidak berada di kampus: peer, keluarga, university  
+  - Komunikasi antara pelajar, pensyarah dan pentadbir akademik
 - Secara ringkas, pelan Tindakan ODL 4.0 mempunyai 14 teras Tindakan yang utama yang dirumuskan didalam jadual dibawah
 ![](/images/image1.png)  
 - Seperti yang kita dapat lihat, peranan pensyarah amat penting dalam memastikan Pelan Tindakan ODL 4.0 dapat dilaksanakan dengan jayanya, bagi menangani isu-isu yang disebutkan. Berbaki kurang lebih 3 minggu sebelum kuliah sesi 20214 ini bermula, marilah kita bersama melengkapi diri dengan memahami hasrat dan perancangan yang digariskan oleh bahagian Hal Ehwal Akademik induk (yang telah dibentangkan semasa sesi townhall tempoh hari), sediakan perencanaan yang bersesuaian dan mulakan perancangan pelaksanaan bagi menjalani semester yang akan datang ini dengan lebih baik dari semester-semester yang sebelum ini, insyaAllah  
