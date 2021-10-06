@@ -1,9 +1,11 @@
-# MEMO TRA BIL.1/2021
+## MEMO TRA BIL.2/2021
 <details>
   <center><embed src="MEMO TRA BIL 2 06102021.pdf" type="application/pdf" width="100%" height="550px" /><p>If you can't view the pdf file, click on the file's link - <a href="MEMO TRA BIL 2 06102021.pdf">Download PDF!</a></p></center>
 </details>
 
-# MEMO TRA BIL.1/2021
+***
+
+## MEMO TRA BIL.1/2021
 
 Assalamualaikum, Salam Sejahtera dan Salam UiTM Dihatiku…
 
@@ -15,7 +17,7 @@ Sebelum berbicara lanjut, izinkan saya merakamkan segunung penghargaan kepada se
 
 Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapatan berkaitan dua perkara utama yang perlu diketahui oleh semua kakitangan akademik UiTM Cawangan Kedah sebelum bermulanya semester Oktober 2021 – Februari 2022 pada 10 Oktober ini. 
 
-## Pengoperasian Kampus & Keberadaan Kakitangan Akademik
+### Pengoperasian Kampus & Keberadaan Kakitangan Akademik
 
 - Memaklumi pengumuman Kementerian Pengajian Tinggi baharu ini berkaitan kemasukan semula pelajar IPT secara fizikal ke kampus akan dilaksanakan secara berperingkat mulai 15 Oktober ini dan saya pasti perkara ini menjadi satu kerisauan dan persoalan kepada kakitangan akademik UiTM Cawangan Kedah terutamanya berkaitan dengan proses pembelajaran dan pengajaran untuk semester baharu ini  
 - Suka untuk dimaklumkan, kebenaran pelajar-pelajar kita untuk pulang ke kampus secara fizikal pada asasnya dilatari boleh beberapa perkara antaranya kumpulan pelajar ini haruslah lengkap divaksinasi serta bersedia untuk pulang ke kampus dan menjalani pengajian akademiknya di dalam kampus  
@@ -30,7 +32,7 @@ Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapa
 - Namun, para pensyarah amat DIGALAKKAN untuk mengadakan kuliah secara bersemuka jika pelajar-pelajar anda berada di dalam kampus  
 - Bagaimana dengan keberadaan pensyarah? Adakah masih berODL dengan WFH atau WFO? Persoalan utama para pensyarah buat ketika ini masih belum dapat dimuktamadkan memandangkan kita masih belum menerima pemakluman terkini daripada mana-mana pihak termasuklah KPT dan UiTM. Saya pasti perkara ini masih dalam penelitian akhir pihak terlibat dan para pensyarah perlu sentiasa bersedia untuk sebarang pemakluman terkini untuk perkara ini. Teruskan perlaksanaan SOP kerja seperti sebelum ini sehingga mendapat pemakluman terkini daripada pihak kampus Induk
 
-## Perancangan Pengajaran dan Pembelajaran Sesi Oktober 2021- Februari 2022
+### Perancangan Pengajaran dan Pembelajaran Sesi Oktober 2021- Februari 2022
 
 - Sesi P&P 20214 (Oktober 2021 – Februari 2022) akan bermula pada 10 Oktober 2021 nanti. Seperti yang kita sedari dan ikuti, sepanjang cuti semester untuk para pelajar ini, Bahagian Hal Ehwal Akademik UiTM telah menganjurkan pelbagai program dan kursus-kursus bagi meningkatkan dan menambah baik kemahiran para pensyarah dalam menempuh sesi pengajaran dan pembelajaran yang akan datang  
 - Semasa program ‘Townhall Akademik di Ambang 20214’ pada 15 September yang lepas, pihak HEA induk telah mengesahkan bahawa, semester Okt 21’ – Feb 22’ akan dijalankan secara ODL dan hybrid bagi program pengajian yang mempunyai keperluan. Ini bermakna, kita akan menempuh sesi ODL untuk kali yang ke-4  
@@ -41,7 +43,9 @@ Untuk MEMO TRA siri sulung ini, izinkan saya berkongsi sedikit maklumat dan dapa
   - Kehidupan susasana kampus norma baharu dapat diteruskan walaupun tidak berada di kampus: peer, keluarga, university  
   - Komunikasi antara pelajar, pensyarah dan pentadbir akademik
 - Secara ringkas, pelan Tindakan ODL 4.0 mempunyai 14 teras Tindakan yang utama yang dirumuskan didalam jadual dibawah
-![](/images/image.png)  
+
+  ![](/images/image.png)  
+  
 - Seperti yang kita dapat lihat, peranan pensyarah amat penting dalam memastikan Pelan Tindakan ODL 4.0 dapat dilaksanakan dengan jayanya, bagi menangani isu-isu yang disebutkan. Berbaki kurang lebih 3 minggu sebelum kuliah sesi 20214 ini bermula, marilah kita bersama melengkapi diri dengan memahami hasrat dan perancangan yang digariskan oleh bahagian Hal Ehwal Akademik induk (yang telah dibentangkan semasa sesi townhall tempoh hari), sediakan perencanaan yang bersesuaian dan mulakan perancangan pelaksanaan bagi menjalani semester yang akan datang ini dengan lebih baik dari semester-semester yang sebelum ini, insyaAllah  
 - Turut disertakan untuk rujukan dan telaah kita bersama, ‘google drive’ yang mengandungi semua dokumen yang telah dikongsikan semasa sesi townhall akademik lepas  [https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv](https://drive.google.com/drive/folders/1C3iETA6Qn0XOXG3fyF9CLk6g94HKRISv)
   
